@@ -54,7 +54,7 @@ faucetSecret: "RandomStringThatShouldBeVerySecret!"
 ethRpcHost: "https://rpc.goerli.mudit.blog"
 
 # faucet wallet private key (hex, without 0x prefix)
-ethWalletKey: "183d177d62e147e999a21c1dbfe0837701d4a4ae32f5bcd62483833c6395bf57"
+ethWalletKey: ""
 
 # EVM chain id
 ethChainId: 5
